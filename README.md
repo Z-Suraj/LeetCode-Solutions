@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
