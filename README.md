@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2833-furthest-point-from-origin](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -113,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
