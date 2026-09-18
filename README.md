@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
