@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2424-longest-uploaded-prefix](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2424-longest-uploaded-prefix) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0136-single-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
