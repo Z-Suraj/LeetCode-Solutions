@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
