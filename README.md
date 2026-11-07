@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2747-count-zero-request-servers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2424-longest-uploaded-prefix](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Ordered Set
