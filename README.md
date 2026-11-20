@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Z-Suraj/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
