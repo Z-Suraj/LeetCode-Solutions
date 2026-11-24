@@ -15,7 +15,10 @@ public:
 
                 if (prod==l*g){
                     ans = max(ans,j-i+1);
-
+                   
+                }
+                else if (prod>25200){
+                    break;
                 }
             }
         }
